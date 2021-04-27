@@ -1,0 +1,323 @@
+/* Home Header Styling */
+.home .body-head {
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home .body-head .overlay {
+  background: rgba(0, 0, 0, 0.4);
+  height: 747px;
+}
+
+/* Home Body Styling */
+
+.home .home-container {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.home .home-body {
+  width: 1200px;
+  margin: auto;
+}
+
+.home .home-body .home-top {
+  height: 747px;
+}
+
+.home .home-body .hero-sec {
+  margin: 237px 80px;
+}
+
+.home .home-body .hero-sec .featured-text {
+  max-width: 843px;
+}
+
+.home .home-body .hero-sec .featured-text h1 {
+  color: white;
+  text-transform: uppercase;
+  font-size: 37.5px;
+  font-weight: normal;
+  line-height: 1.36;
+  letter-spacing: 5.47px;
+}
+
+.home .home-body .body-box {
+  padding: 0px 51.7px;
+  position: relative;
+  top: -80px;
+}
+
+/* Home Body Top Styling */
+
+.home .home-body .body-box .featured-box {
+  width: 629.2px;
+  min-width: 629.2px;
+  height: 160px;
+  color: white;
+  background-image: linear-gradient(to bottom right, #97d4dc, #5ea9b6);
+  padding-left: 80px;
+  /* border-radius: 5px; */
+  overflow: hidden;
+}
+
+.home .home-body .body-box .element-1 {
+  border-radius: 5px;
+}
+.home .home-body .body-box .featured-box .div-top {
+  width: 100%;
+  padding-top: 38.7px;
+}
+
+.home .home-body .body-box .featured-box .div-top span {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 3.16px;
+  text-transform: uppercase;
+}
+
+.home .home-body .body-box .featured-box .div-bottom {
+  padding-top: 12px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.home .home-body .body-box .featured-box .div-bottom span {
+  font-size: 16.7px;
+  line-height: 1.35;
+  width: 368px;
+  font-weight: normal;
+}
+.home .home-body .body-box .featured-box .div-bottom button {
+  height: 80px;
+  border: none;
+  outline: none;
+  width: 80px;
+  color: white;
+  background: #9ec5cb;
+}
+
+/* Home Body Bottom Styling */
+.home .home-body .body-box .element-2 {
+  color: #676767;
+  margin-top: 50px;
+  justify-content: space-between;
+  display: flex;
+}
+
+/* Home Body Bottom Left Box */
+
+.home .home-body .body-box .element-2 .left-box {
+  background: #e5e5df;
+  width: 629.2px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-1 {
+  padding-left: 80px;
+  padding-top: 55.8px;
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-1 h1 {
+  font-size: 53.3px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.95;
+  letter-spacing: 4.61px;
+  /* padding-bottom: 2.3px; */
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-1 span {
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.13;
+  letter-spacing: normal;
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-2 {
+  padding-left: 80px;
+  margin-top: 98.5px;
+  margin-bottom: 58px;
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-2 span {
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 4.13px;
+  text-transform: uppercase;
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-3 {
+  padding: 27.9px 0px 79px 80px;
+  border-top: solid 1.6px #d3d3cc;
+}
+.home .home-body .body-box .element-2 .left-box .elem-3 .text {
+  max-width: 368px;
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-3 span {
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: 0.42px;
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-bottom {
+  width: 100%;
+  height: 80px;
+  background-image: linear-gradient(to right, #f8f8f6, #e5e5df);
+  display: flex;
+  justify-content: space-between;
+  padding-left: 80px;
+}
+
+.home .home-body .body-box .element-2 .left-box .elem-bottom span {
+  font-size: 16.7px;
+  line-height: 1.35;
+  width: 368px;
+  font-weight: normal;
+  margin: auto;
+  margin-left: 0px;
+}
+.home .home-body .body-box .element-2 .left-box .elem-bottom button {
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  color: white;
+  background: #d6d7d3;
+}
+
+/* Home Body Bottom Right Box */
+
+.home .home-body .body-box .element-2 .right-box {
+  width: 460px;
+  background: #f6f6f6;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.home .home-body .body-box .element-2 .right-box .elem-1 img {
+  width: 100%;
+  height: 359.2px;
+}
+
+.home .home-body .body-box .element-2 .right-box .elem-2 {
+  padding-left: 25.8px;
+  padding-top: 28.2px;
+  width: 298px;
+}
+
+.home .home-body .body-box .element-2 .right-box .elem-2 p {
+  font-size: 20px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: 0.42px;
+}
+.home .home-body .body-box .element-2 .right-box .elem-2 span {
+  font-weight: 600;
+}
+
+.home .home-body .body-box .element-2 .right-box .elem-bottom {
+  width: 100%;
+  height: 80px;
+  /* background-image: linear-gradient(to right, #f8f8f6, #e5e5df); */
+  display: flex;
+  justify-content: space-between;
+  padding-left: 25px;
+  background: #ededed;
+  margin-top: 78.3px;
+}
+
+.home .home-body .body-box .element-2 .right-box .elem-bottom span {
+  font-size: 16.7px;
+  line-height: 1.35;
+  width: 368px;
+  font-weight: normal;
+  margin: auto;
+  margin-left: 0px;
+}
+.home .home-body .body-box .element-2 .right-box .elem-bottom button {
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 80px;
+  color: white;
+  background: #d6d7d3;
+}
+
+/* Home Body Bottom Bottom Box */
+
+.home .home-body .body-box .element-3 {
+  width: 100%;
+  height: 436.7px;
+  background: #f6f6f6;
+  margin-top: 50px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.home .home-body .body-box .element-3 .benefits {
+  padding-left: 80px;
+  padding-top: 132px;
+  padding-bottom: 43.5px;
+}
+
+.home .home-body .body-box .element-3 .benefits span {
+  font-size: 37.5px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: 5.47px;
+  text-transform: uppercase;
+}
+
+.home .home-body .body-box .element-3 .box-bottom .tax-strategy {
+  /* position: relative;
+  bottom: 0; */
+  height: 80px;
+  width: 100%;
+  background: #ededed;
+  padding-left: 30.8px;
+  padding-top: 25.8px;
+  margin-top: 80px;
+}
+
+.home .home-body .body-box .element-3 .box-bottom .tax-strategy span {
+  font-size: 21.7px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.04;
+  letter-spacing: normal;
+}
+
+.home .home-body .link-dashboard {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 80px;
+}
+.home .home-body .link-dashboard a {
+  background: #5ea9b6;
+  padding: 15px 50px;
+  color: white;
+  text-decoration: none;
+  border-radius: 2px;
+}

@@ -1,0 +1,16 @@
+export { default as HomeBannerTop } from "./carousel_1.jpg";
+export { default as Logo } from "./vanguard-logo.png";
+export { default as LoginImage } from "./login_image.png";
+export { default as graphA } from "./graph-a.png";
+export { default as graphB } from "./graph-b.png";
+export { default as graphC } from "./graph-c.png";
+export { default as filter } from "./filter.png";
+export { default as cardA } from "./card-1.jpg";
+export { default as cardB } from "./card-2.jpg";
+export { default as cardC } from "./card-3.jpg";
+export { default as cardD } from "./card-4.png";
+export { default as cardE } from "./card-5.jpg";
+export { default as socialIcons } from "./three-icons.png";
+export { default as yellowGlow } from "./highlight-education.png";
+export { default as redGlow } from "./highlight-refugee.png";
+export { default as graph } from "./graph.PNG";

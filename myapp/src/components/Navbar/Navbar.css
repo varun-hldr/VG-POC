@@ -1,0 +1,45 @@
+/* Navbar Styling */
+.navbar {
+  padding: 0px 30px;
+  padding-top: 60px;
+}
+
+.navbar .navbar-brand img {
+  width: 140.8px;
+  height: 56.7px;
+  margin-left: 10px;
+  position: relative;
+  top: -10px;
+}
+
+.navbar .navbar-brand p {
+  font-size: 15px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 5.08;
+  letter-spacing: -0.01px;
+}
+
+.navbar .navbar-brand span {
+  font-weight: 600;
+}
+
+/* .navbar form {
+  padding-top: 25px;
+} */
+
+.navbar form a {
+  text-decoration: none;
+  color: white;
+  margin: 0px 25px;
+  font-size: 15px;
+}
+
+.navbar form button {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  margin-left: 15px;
+}
